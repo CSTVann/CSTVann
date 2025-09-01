@@ -34,4 +34,6 @@ Passionate about **Web Development, Machine Learning, and OCR**.
 
 ### 👀 Profile Activity  
 
-![Profile Views](https://komarev.com/ghpvc/?username=CSTVann&label=Profile%20views&color=0e75b6&style=flat)
+<div width="100vw">
+  ![Profile Views](https://komarev.com/ghpvc/?username=CSTVann&label=Profile%20views&color=0e75b6&style=flat)
+</div>
