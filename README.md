@@ -13,5 +13,4 @@ Passionate about **Web Development, Machine Learning, and OCR**.
 
 ### 🛠️ Languages & Tools  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSTVann&layout=compact&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSTVann&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,html,css)
