@@ -10,7 +10,9 @@ Passionate about **Web Development, Machine Learning, and OCR**.
 - ⚡ Fun fact: I love turning ideas into real projects 🚀  
 
 ---
-
-### 🛠️ Languages & Tools  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSTVann&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,html,css)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CSTVann&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=CSTVann&theme=tokyonight&hide_border=false)
+![trophy](https://github-profile-trophy.vercel.app/?username=CSTVann&theme=tokyonight&column=7)
+![Snake animation](https://raw.githubusercontent.com/CSTVann/CSTVann/output/github-contribution-grid-snake.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=CSTVann&label=Profile%20views&color=0e75b6&style=flat)
