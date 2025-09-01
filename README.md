@@ -13,12 +13,12 @@ Passionate about **Web Development, Machine Learning, and OCR**.
 
 ### Summary of Profile CSTVann  
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSTVann&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,html,css" height="160" width="100%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=CSTVann&show_icons=true&theme=tokyonight" height="160" width="100%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSTVann&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,html,css" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=CSTVann&theme=tokyonight&hide_border=false" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=CSTVann&theme=tokyonight&hide_border=false" height="160" width="100%"/>
 </p>
+
 ---
 
 ### 👀 Profile Activity  
-
 ![Profile Views](https://komarev.com/ghpvc/?username=CSTVann&label=Profile%20views&color=0e75b6&style=flat)
