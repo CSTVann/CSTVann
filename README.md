@@ -26,9 +26,7 @@ Passionate about **Web Development, Machine Learning, and OCR**.
   <img src="https://streak-stats.demolab.com?user=CSTVann&theme=tokyonight&hide_border=false" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CSTVann&theme=tokyonight&column=7" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=CSTVann&theme=tokyonight&column=7" />
 
 ---
 
