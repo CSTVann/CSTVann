@@ -1,16 +1,10 @@
-### Hi there 👋
+### I'm Sotheavann Chhorn
 
-<!--
-**CSTVann/CSTVann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A **Software Engineer** with **Three Years of Experience**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Software Engineering
-- Sophomore of Information Technology Engineering
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Working on: Software Engineering projects  
+- 🎓 Year 4, Sophomore of Information Technology Engineering  
+- 👯 Looking to collaborate on open-source and research projects  
+- 💬 Ask me about: Web Development, Machine Learning, OCR  
+- 📫 How to reach me: [Your Email] | [LinkedIn] | [Portfolio]  
+- ⚡ Fun fact: I love turning ideas into real projects 🚀
