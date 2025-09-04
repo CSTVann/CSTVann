@@ -16,20 +16,16 @@ Passionate about **Web Development, Data Analytic and AI & Machine Learning Rese
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSTVann&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,html,css" height="160"/>
 </p>
 
-### Profile
-<img src="https://github-readme-stats.vercel.app/api?username=CSTVann&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://streak-stats.demolab.com?user=CSTVann&theme=tokyonight&hide_border=false" height="160"/>
-
----
+### Profile Detail
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CSTVann&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=CSTVann&theme=tokyonight&hide_border=false" height="160"/>
+</p>
 
 ### 🏆 Achievements  
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CSTVann&theme=tokyonight&column=6&margin-w=10&margin-h=10"/>
 </p>
 
----
-
 ### 👀 Profile Activity  
-
 ![Profile Views](https://komarev.com/ghpvc/?username=CSTVann&label=Profile%20views&color=0e75b6&style=flat)
