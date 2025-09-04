@@ -11,13 +11,14 @@ Passionate about **Web Development, Data Analytic and AI & Machine Learning Rese
 
 ---
 
-### 📊 GitHub Overview  
-
+### 📊 Most Programming Lanugage 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSTVann&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,html,css" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=CSTVann&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=CSTVann&theme=tokyonight&hide_border=false" height="160"/>
 </p>
+
+### Profile
+<img src="https://github-readme-stats.vercel.app/api?username=CSTVann&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://streak-stats.demolab.com?user=CSTVann&theme=tokyonight&hide_border=false" height="160"/>
 
 ---
 
