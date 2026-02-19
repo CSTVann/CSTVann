@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Sotheavann Chhorn  
 
-A **Software Engineer** with **3 years of experience** in building and delivering real-world solutions.  
-Passionate about **Web Development, Data Analytic and AI & Machine Learning Research**.  
+A **Senior Full-Stack Developer** with **more than 3 years of experience** in building and delivering real-world solutions.  
+Passionate about **Web Development, Data Analytic and AI & Machine Learning**.  
 
 - 🔭 Currently working as a Software Engineer  
 - 👯 Open to collaborating on open-source and research projects  
