@@ -3,7 +3,7 @@
 A **Senior Full-Stack Developer** with **more than 3 years of experience** in building and delivering real-world solutions.  
 Passionate about **Web Development, Data Analytic and AI & Machine Learning**.  
 
-- 🔭 Currently working as a Software Engineer  
+- 🔭 Currently working as a Senior Web Developer develop the Full-Stack Website, Design and Develop the Digital Tools.  
 - 👯 Open to collaborating on open-source and research projects  
 - 💬 Ask me about Web Development, Data Analytic and AI & Machine Learning Research 
 - 📫 Reach me at: (sotheavannchhorn168@gmail.com) | [Sotheavann Chhorn](https://www.linkedin.com/in/chhorn-sotheavann-776639251) | [cstvann.site](https://www.cstvann.site)  
